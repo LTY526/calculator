@@ -1,5 +1,7 @@
 This is a simple calculator app developed with [Next.js](https://nextjs.org/).
 
+It is currently hosted at https://calculator-lty526.vercel.app/
+
 ## To Build and Run Locally
 
 1. Install dependancies by:
