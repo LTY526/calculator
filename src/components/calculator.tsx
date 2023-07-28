@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from 'react';
-import styles from './Calculator.module.css';
+import styles from './calculator.module.css';
 
 type Digits = '1' | '2' | '3' | '4' | '5' | '6' | '7' | '8' | '9' | '0' | '.';
 type Operators =  '+' | '-' | '*' | '/' | '=';
