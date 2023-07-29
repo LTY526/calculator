@@ -1,5 +1,5 @@
 .gridContainer {
-  font-size: 8px;
+  font-size: 1.2vh;
   display: grid;
   gap: 1em;
   grid-template-columns: repeat(4, 1fr);
@@ -65,16 +65,4 @@
 
 .operatorBtn {
   background-color: #ff9500;
-}
-
-@media(min-width: 360px) {
-  .gridContainer {
-    font-size: 10px;
-  }
-}
-
-@media(min-width: 500px) {
-  .gridContainer {
-    font-size: 14px;
-  }
 }
