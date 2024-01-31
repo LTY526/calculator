@@ -1,6 +1,9 @@
-This is a simple calculator app developed with [Next.js](https://nextjs.org/).
+# Calculator
 
-It is currently hosted at https://calculator-lty526.vercel.app/
+This is a simple calculator app developed with [Next.js](https://nextjs.org/).
+*Cannot guarantee the results from the calculator.*
+
+Live preview: https://calculator-olive-sigma.vercel.app/
 
 ## To Build and Run Locally
 
