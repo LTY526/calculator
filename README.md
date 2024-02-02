@@ -1,7 +1,7 @@
 # Calculator
 
 This is a simple calculator app developed with [Next.js](https://nextjs.org/).
-*Cannot guarantee the results from the calculator.*
+*Cannot guarantee the accuracy of the results from the calculator.*
 
 Live preview: https://calculator-olive-sigma.vercel.app/
 
